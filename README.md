@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/66558492/192754554-e51e5ddb-5bd9-429c-9686-f98201045aee.png)
 Main Objective:
 
 View the bar chart and hover over the individual bars to see the correct amounts for each day
